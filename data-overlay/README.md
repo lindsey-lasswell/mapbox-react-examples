@@ -16,7 +16,7 @@ Add a data overlay to a map via React and use controls to visualize it different
 
 ### Access token
 
-    mapboxgl.accessToken = // YOUR_API_KEY_HERE
+    mapboxgl.accessToken = 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA'
 
 Replace the [API key](https://docs.mapbox.com/help/getting-started/access-tokens/) in `src/Map.js`.
 
